@@ -40,3 +40,10 @@ if __name__ == "__main__":
     
     # Print the hypothesis
     print("Hypothesis:", hypothesis)
+
+
+# ['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Yes']
+# ['Sunny', 'Warm', 'High', 'Strong', 'Warm', 'Yes']
+# ['Rainy', 'Cold', 'High', 'Weak', 'Cool', 'No']
+# ['Sunny', 'Warm', 'High', 'Strong', 'Cool', 'Yes']
+# Hypothesis: ['Sunny', 'Warm', '?', 'Strong', '?']
